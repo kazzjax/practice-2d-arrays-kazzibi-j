@@ -1,1 +1,19 @@
+let allScores = [
+  [97, 91, 86],
+  [89, 93, 77],
+  [98, 90, 85]
+];
+console.log(allScores);
 
+let theaterSeating = [
+    ["A1", "A2", "A3", "A4"],
+    ["B1", "B2", "B3", "B4"],
+    ["C1", "C2", "C3", "C4"]
+];
+console.log(theaterSeating);
+
+let contactList = [
+    ["Bob Farquaad", "bfarquaad@mail.com", "555-784-3892"],
+    ["Don Keye", "blueflower@mail.com", "555-109-0844"]
+];
+console.log(contactList);
